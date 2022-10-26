@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarineAyrs
 - 👀 I’m interested in ML, DS, Analytics and NLP
-- 🌱 I’m currently stufying for Master's Degree at MSU
+- 🌱 I’m currently studying for Master's Degree at MSU
 
 
 <!---
